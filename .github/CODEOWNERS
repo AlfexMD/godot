@@ -4,7 +4,7 @@
 
 # Buildsystem
 
-.*                                  @godotengine/buildsystem
+.                                  @godotengine/buildsystem
 .github/                            @godotengine/buildsystem
 *.py                                @godotengine/buildsystem
 SConstruct                          @godotengine/buildsystem
